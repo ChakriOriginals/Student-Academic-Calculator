@@ -1,6 +1,6 @@
 # Student-Academic-Calculator
 
-Welcome to the Mobile Academic Performance Analyzer, a comprehensive application designed to assist students in managing and understanding their academic performance. 
+Welcome to the Mobile Student Academic Calculator, a comprehensive application designed to assist students in managing and understanding their academic performance. 
 This mobile project encompasses two pivotal functionalities: 
 
 - The calculation of Grade Point Average (GPA) or Cumulative Grade Point Average (CGPA) & 
