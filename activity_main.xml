@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/cgpa"
+        android:layout_width="136dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="204dp"
+        android:layout_marginBottom="302dp"
+        android:shadowColor="@color/purple_200"
+        android:text="CGPA CALCULATOR" />
+
+    <Button
+        android:id="@+id/gpa"
+        android:layout_width="136dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="303dp"
+        android:text="GPA CALCULATOR" />
+
+    <Button
+        android:id="@+id/att"
+        android:layout_width="136dp"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="122dp"
+        android:layout_marginBottom="437dp"
+        android:text="ATTENDENCE CALCULATOR" />
+
+    <!--    <Button-->
+<!--        android:id="@+id/acd"-->
+<!--        android:layout_width="136dp"-->
+<!--        android:layout_height="80dp"-->
+<!--        android:layout_alignParentEnd="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginEnd="151dp"-->
+<!--        android:layout_marginBottom="284dp"-->
+<!--        android:text="Academic Resources" />-->
+
+
+</RelativeLayout>
