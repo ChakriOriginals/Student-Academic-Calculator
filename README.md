@@ -9,6 +9,7 @@ This mobile project encompasses two pivotal functionalities:
 
 ## Contribution and Support:
 
+
 We welcome contributions from the developer community to enhance features, address bugs, and improve overall functionality. Feel free to fork the repository, make changes, and submit pull requests to actively participate in the project's development.
 
 Download the app now and embark on a path to academic success!
